@@ -2,13 +2,12 @@
 
 import useUploadModal from "@/hooks/useUploadModel";
 import Modal from "./Modal";
-import { Field, FieldValues, SubmitHandler, useForm } from "react-hook-form";
+import { FieldValues, SubmitHandler, useForm } from "react-hook-form";
 import { useState } from "react";
 import Input from "./input";
 import Button from "./Button";
 import toast from "react-hot-toast";
 import { useUser } from "@/hooks/useUser";
-import { unique } from "next/dist/build/utils";
 import uniqid from "uniqid";
 import { useSupabaseClient } from "@supabase/auth-helpers-react";
 import { useRouter } from "next/navigation";
