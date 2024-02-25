@@ -4,11 +4,11 @@
 Build a Full Stack Spotify Clone with Next.js 13.4, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe in 2023! This comprehensive guide teaches you to develop a complete music streaming application, replicating the key features of Spotify, including a dynamic user interface, secure authentication, database management, and premium subscriptions.
 
 ## Tech Stack
-- **Frontend:** Next.js 13.4, React, Tailwind CSS
-- **Backend:** Supabase (Firebase alternative), PostgreSQL
-- **Payment Processing:** Stripe
-- **Authentication:** Supabase Authentication, GitHub OAuth
-- **Storage:** Supabase Storage for files and images
+- **Frontend:** `Next.js 13.4`, `React`, `Tailwind CSS`
+- **Backend:** `Supabase` (Firebase alternative), `PostgreSQL`
+- **Payment Processing:** `Stripe`
+- **Authentication:** `Supabase Authentication`, `GitHub OAuth`
+- **Storage:** `Supabase Storage` for files and images
 
 ## Features
 - **Dynamic UI:** Using Next.js and React, with Tailwind CSS for styling and animations.
