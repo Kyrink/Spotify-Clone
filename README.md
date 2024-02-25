@@ -5,7 +5,7 @@ Build a Full Stack Spotify Clone with Next.js 13.4, React, Tailwind CSS, Supabas
 
 ## Tech Stack
 - **Frontend:** `Next.js 13.4`, `React`, `Tailwind CSS`
-- **Backend:** `Supabase` (Firebase alternative), `PostgreSQL`
+- **Backend:** `Supabase`, `PostgreSQL`
 - **Payment Processing:** `Stripe`
 - **Authentication:** `Supabase Authentication`, `GitHub OAuth`
 - **Storage:** `Supabase Storage` for files and images
@@ -33,7 +33,7 @@ The project kicks off with setting up Next.js for the frontend and Tailwind CSS 
 - Direct database access in Next.js without traditional API calls.
 
 ## Improvement
-Future enhancements could include expanding the music catalog, improving the recommendation algorithm, and integrating social features for shared playlists and music discovery.
+Future enhancements could include expanding the music catalog, implementing a recommendation algorithm, and integrating social features for shared playlists and music discovery.
 
 ## Running the Project
 1. Clone the repo and install dependencies with `npm install`.
